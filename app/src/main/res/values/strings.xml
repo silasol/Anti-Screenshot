@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Anti Screenshot</string>
+    <string name="xposed_description">强制截屏 @lushan</string>
+</resources>
